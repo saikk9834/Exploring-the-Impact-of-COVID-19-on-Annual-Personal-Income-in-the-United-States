@@ -1,7 +1,5 @@
 # Exploring the Impact of COVID-19 on Annual Personal Income in the United States
 
-![COVID-19 Impact](https://example.com/covid19_impact.png)
-
 ## Overview
 
 This Machine Learning project aims to explore and analyze the impact of the COVID-19 pandemic on annual personal income in the United States. The project utilizes various machine learning algorithms, including Naive Bayes, Logistic Regression, Random Forest, KNN, and SVC, to predict the impact of COVID-19 on personal income based on data from the years 2019, 2020, and 2021. The dataset contains information on various factors such as age, education, and occupation, which will be used to understand how these factors contribute to the changes in personal income during the pandemic.
@@ -53,8 +51,8 @@ The dataset is collected from official government sources and surveys and provid
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/covid19-income-impact.git
-cd covid19-income-impact
+git clone https://github.com/saikk9834/Exploring-the-Impact-of-COVID-19-on-Annual-Personal-Income-in-the-United-States.git
+cd Exploring-the-Impact-of-COVID-19-on-Annual-Personal-Income-in-the-United-States.git
 ```
 
 2. Set up a virtual environment (optional but recommended):
@@ -63,16 +61,9 @@ cd covid19-income-impact
 python3 -m venv venv
 source venv/bin/activate
 ```
-
-3. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Usage
 
-1. Open the Jupyter Notebook `covid19_income_impact.ipynb` in your Jupyter environment.
+1. Open any of the Jupyter Notebooks in your Jupyter environment.
 
 2. Execute the notebook cells one by one to load the dataset, preprocess the data, and build the machine learning models.
 
